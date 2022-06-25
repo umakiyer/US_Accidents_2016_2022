@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding Config.py to gitignore
+MachineLearning/config.py
+DashBoardFiles/Static/py/config.py
+
+# Adding config.js to gitignore
+DashBoardFiles/Static/js/config.js
+
+
+
 # C extensions
 *.so
 
